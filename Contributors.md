@@ -42,7 +42,6 @@
 - [Adekilekun Abdullahi](https://github.com/adekilekunabdullahi)
 - [Harish Kumar](https://github.com/harivasista)
 - [Chavis00] (https://github.com/Chavis00)👁️
-- [Prajwal Agrawal] (https://github.com/kidkoder432)
 - [Ripa] (https://github.com/riparuk) 
 - [aleisgoood] (https://github.com/aleisgoood)
 - [kyrill belomenov](https://github.com/kybe236)
@@ -86,6 +85,7 @@
 - [yuxm](https://github.com/yux-m)
 - [Talha Yousuf](https://github.com/talhayousuff)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
+- [Prajwal Agrawal] (https://github.com/kidkoder432)
 - [hari](https://github.com/harisahu)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Ronald van Gelder](https://github.com/rvangelder11)
