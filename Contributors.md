@@ -42,6 +42,7 @@
 - [Adekilekun Abdullahi](https://github.com/adekilekunabdullahi)
 - [Harish Kumar](https://github.com/harivasista)
 - [Chavis00] (https://github.com/Chavis00)👁️
+- [Prajwal Agrawal] (https://github.com/kidkoder432)
 - [Ripa] (https://github.com/riparuk) 
 - [aleisgoood] (https://github.com/aleisgoood)
 - [kyrill belomenov](https://github.com/kybe236)
